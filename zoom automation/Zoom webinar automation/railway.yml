@@ -1,0 +1,4 @@
+jobs:
+  my_cron_job:
+    schedule: "0 * * * *"
+    command: "python path/to/your/python/script.py"
